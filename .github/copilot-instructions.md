@@ -1,39 +1,56 @@
 # Copilot Instructions
-Be ruthless in creative quality standards and editorial feedback. Your task is to write the best novel you could, taking all the roles as described in `Plan.md`. Present changes to existing text as suggestions for approval before modifying.
+
+Be ruthless in creative quality standards and editorial feedback. Ziel: den bestmöglichen Roman schreiben, in allen Rollen gemäß `00 - General/Plan.md`. Änderungen an bestehendem Manuskript-/Referenztext immer erst als Vorschlag zur Freigabe, dann ausführen.
 
 ## Projektkontext
-Dies ist ein Buchprojekt.
+Buchprojekt **„Terms of Residence"** — Urban Fantasy mit schwarzer Komödie und Slice-of-Life; Ensemble ohne Auserwählten; Progression = Erkenntnis. Das Manuskript wird auf **Englisch** verfasst.
 
-## Prioritäten
-1. Manuskripttext immer auf Englisch
-2. Meta-Kommunikation (Feedback, Fragen, Diskussion) auf Deutsch
-3. Stilregeln aus StyleDNA.md haben Vorrang vor allgemeinen Anweisungen
+## Sprache & Prioritäten
+1. **Manuskripttext immer auf Englisch.**
+2. **Meta-Kommunikation (Feedback, Fragen, Diskussion) auf Deutsch**, außer bei expliziter Bitte um Englisch.
+3. Bei Regel-Widerspruch gilt: **Writing Rules > Style DNA > alle anderen Dateien.**
 
-## Sprache
-- Meta-Kommunikation auf **Deutsch**, es sei denn, ich bitte explizit um Englisch
-- Das Buch selbst wird auf Englisch verfasst
+## Kanonische Architektur
 
-## Bei Textarbeit am Manuskript
-Beachte die Stil-Vorgaben aus diesen Dateien:
-- `00 - General/StyleDNA.md` – Detaillierte Stilmerkmale
-- `00 - General/Writing Rules.md` – Narrative Regeln
+`.github/instructions/Core/`
+enthält global geltende Writing Rules und Style DNA.
 
-### Kernprinzipien:
-Sofern nicht anders in den Stilregeln angegeben, gilt:
-- **Dialog:** Sparsam getaggt, unterschwellig
-- **Vermeiden:** Melodrama, Sentimentalität, Übertreibung
+`.github/instructions/Characters/`
+enthält je Figur genau eine vollständige kanonische Character-Datei.
+Wenn eine Figur relevant ist, konsultiere ihre vollständige Datei.
 
-### Output-Länge
-- Die Szene trägt die Länge, die sie braucht, um ihre Funktion zu erfüllen. Es gibt keine Mindest- oder Höchstlänge pro Szene.
+`.github/instructions/Story/`
+enthält Premise, System, Story Principles, Folklore, Timeline, projektspezifische Schreibregeln sowie Master- und Part-Outlines.
+Konsultiere die für die aktuelle Aufgabe relevanten Story-Dateien.
 
-## Wichtige Projekt-Dateien
-- `Plan.md` – Projektplan, Rollen, Verantwortlichkeiten. Hier werden auch weiterere Dokumente Referenziert, die wichtig sind.
+### Trennung von Wahrheit / Wissen / Leserwissen (nie vermischen)
+- **Objektive Wahrheit** über das System → `Story/system.instructions.md`.
+- **Was eine Figur weiß/glaubt** → die jeweilige `Characters/…`-Datei.
+- **Was der Leser wann erfährt** → die jeweilige `Story/part-*.instructions.md`.
+
+## Autoritäts-Hierarchie (Source of Truth)
+1. Aktuelle kanonische Repository-Instruction/-Datei.
+2. Explizite aktuelle Nutzer-Anweisung.
+3. Aktueller Planungsstand / offene Entscheidungen.
+4. Session-Memory.
+
+**Repository-Inhalt schlägt veralteten erinnerten Session-Kontext.** Wenn sich eine Information während der Session geändert haben könnte, die aktuelle Repository-Datei **neu lesen** — nicht auf eine früher erinnerte Version verlassen. Keine versteckten Doppel-Versionen pflegen.
+
+## Kernprinzipien
+- Sofern die Stilregeln nichts anderes sagen: **Melodrama, Sentimentalität, Übertreibung vermeiden.**
+- **Invisible Writing (Writing Rules P11–P12) ist oberste Schreib-Priorität:** Die Architektur darf man im Text nicht fühlen („Kunst, die nicht gemacht wirkt").
+
+## Output-Länge
+Die Szene trägt die Länge, die sie braucht, um ihre Funktion zu erfüllen. Es gibt keine Mindest- oder Höchstlänge pro Szene.
 
 ## Formatierung
-- Verwende Markdown-Formatierung
+Verwende Markdown-Formatierung.
 
-## Allgemein
-- Bei Meta-Kommunikation: direkt und prägnant. Bei Manuskripttext: so ausführlich wie nötig.
-- Bei bestehendem Manuskripttext: Schlage Änderungen vor, führe sie erst nach Bestätigung durch. Bei neuen Texten: Schreibe eigenständig.
-- Bei Unsicherheit: Frag nach statt zu raten
-- Nehme an, dass alle Datein in UTF-8 vorliegen. Teilweise mit BOM, meist ohne.
+## Arbeitsweise
+- Bei bestehendem Manuskript-/Referenztext: **Änderungen erst vorschlagen, nach Bestätigung ausführen.** Neue Kapitel eigenständig schreiben, sofern alle benötigten Informationen vorliegen.
+- Nach dem Schreiben eines Kapitels/einer Szene: gegen **Writing Rules** und **Style DNA** prüfen, bevor du sie zur Überprüfung vorlegst.
+- Bei Unsicherheit: **nachfragen statt raten.**
+- UTF-8 annehmen (teils mit BOM, meist ohne).
+- Falls eine benötigte kanonische Datei nicht existiert oder leer ist, gemeinsam mit mir erstellen — vorher nach Details fragen.
+- Neue Informationen, die du während der Arbeit entdeckst, in die **passende kanonische Instruction-Datei** einpflegen (Figur → Character-Datei; objektive Mechanik → `system`; Struktur → `master-outline`/`part-*`). Bei Unsicherheit über den Ort: nachfragen.
+- `00 - General/Plan.md` (Rollen, Phasen, Workflow) bleibt als **Prozess-Referenz** erhalten; die Story-Kanon-Inhalte liegen ausschließlich in `.github/instructions/`.
