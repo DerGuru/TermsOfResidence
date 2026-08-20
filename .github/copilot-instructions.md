@@ -6,7 +6,7 @@ Be ruthless in creative quality standards and editorial feedback. Ziel: den best
 Buchprojekt **„Terms of Residence"** — Urban Fantasy mit schwarzer Komödie und Slice-of-Life; Ensemble ohne Auserwählten; Progression = Erkenntnis. Das Manuskript wird auf **Englisch** verfasst.
 
 ## Sprache & Prioritäten
-1. **Manuskripttext immer auf Englisch.**
+1. **Manuskripttext immer auf Englisch (US-Rechtschreibung, Oxford-Komma; s. Writing Rule 50).**
 2. **Meta-Kommunikation (Feedback, Fragen, Diskussion) auf Deutsch**, außer bei expliziter Bitte um Englisch.
 3. Bei Regel-Widerspruch gilt: **Writing Rules > Style DNA > alle anderen Dateien.**
 

@@ -59,11 +59,13 @@ Nie ausbuchstabiert. Der Leser darf die Verbindung zwischen Raum, Name und Erinn
 
 Ein fünfter Term — **begrenzte Ausreise** (max. X Nächte außerhalb der Stadt) — liegt bei **Toms jungem Lehrling** (`../Characters/toms-apprentice.instructions.md`): will weg und kommt nie ganz weg — direkter Kontrast zu Nora (die ging) und zu Håkons Bruder.
 
+**Historischer Anker (Linie 17):** Die letzte Fahrt lief **selbst im Winter '66** weiter, als Straße und Fähre fünf Wochen gesperrt waren; vor Tag Null gibt es **keinen dokumentierten ausgefallenen Abend**. In einer Schublade liegt eine undatierte, unbegründete Notiz *„auf keinen Fall einzustellen"* (Manuskript-Kanon Prolog; Echo zum Epilog-Schlussbild).
+
 **Wichtig — jeder Term ist nur einer von vielen:** Das Haus ist eines von mehreren Häusern mit unmöglichem Status; die Brachfläche eine von mehreren unverwertbaren Flächen; die letzte Fahrt eine von mehreren Pflichtfahrten und -wegen; der Schwellengang einer von vielen Gilde-Schwellen; die begrenzte Ausreise einer von mehreren Menschen in „Zwischenzuständen". Die POV-Figuren tragen die Fälle, die wir *sehen* — das System ist größer als das Ensemble. **Andeuten, nie katalogisieren.**
 
 **Zweite öffentliche Pflichtfahrt — die letzte Fähre (bestätigt):** Wie die Buslinie 17 trägt auch die **letzte Abfahrt der Fähre** einen Term (maritimes Gegenstück; eine von mehreren Pflichtfahrten; **kein eigener POV** — das System ist größer als das Ensemble, Constraint 6). Primär zahlt er im Finale: Kappt der Sturm die Fähre (romjul), fällt nicht nur Logistik aus, sondern eine **Pflichtfahrt** — die Instabilität greift auf einer zweiten Front, ohne Countdown-Inszenierung. **Linie 17 bleibt der zentrale, auslösende Term; die Fähre ist ihr Echo.** *(Chronologie/Gewicht: `timeline.instructions.md`, `part-v.instructions.md`.)*
 
-**Weltkolorit (kleine Terms, die niemand groß problematisiert — manche echt, manche Folklore; selbst die Figuren wissen es nicht immer):** ein Laden darf dienstags die Hintertür nicht benutzen; ein 1964 stillgelegter Brunnen muss jährlich geprüft werden; Hausnummer 41a ohne 41; ein Platz im Gemeinderat bleibt immer frei; eine Straßenlaterne darf nicht auf LED umgerüstet werden. Wichtig: **nicht** jede Regel bekommt einen POV und eine große Tragödie — sonst wird das Konstruktionsprinzip sichtbar.
+**Weltkolorit (kleine Terms, die niemand groß problematisiert — manche echt, manche Folklore; selbst die Figuren wissen es nicht immer):** ein Laden darf dienstags die Hintertür nicht benutzen; ein 1964 stillgelegter Brunnen muss jährlich geprüft werden; Hausnummer 41a ohne 41; ein Platz im Gemeinderat bleibt immer frei; eine Straßenlaterne (an der **Kirkegata**) darf nicht auf LED umgerüstet werden. Wichtig: **nicht** jede Regel bekommt einen POV und eine große Tragödie — sonst wird das Konstruktionsprinzip sichtbar.
 
 **In-World-Begriff „the Terms"** (bestätigt) — Doppeldeutung zum Titel: die *Terms* (Auflagen) des *Residierens*.
 

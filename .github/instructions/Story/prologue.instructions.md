@@ -21,10 +21,11 @@ description: Detailed material for the Prologue (Viktor) — the mayor arrives, 
 - Den **Antagonisten als sympathisch und vernünftig** etablieren; die Stadt als **politisches Abstellgleis**; sein Antrieb (**sich beweisen**).
 - Er kommt an, politisch abgeschoben, sieht die ersten **absurden Haushaltspositionen**, fasst den Entschluss, **„Ordnung zu schaffen"**. Sympathisch und vernünftig.
 - **Antagonist-Staffelung:** Viktor **weiß nichts** (1. Drittel). Reformen wirken vernünftig. *(s. `../Characters/viktor.instructions.md`.)*
+- **Amt:** **kommunedirektør** (angestellter Verwaltungschef, von außen). Er *entwirft* die Einstellung der Linie 17; der Rat (*kommunestyre*) **beschließt** sie (~Di 20. Sep). *(Kanon: `../Characters/viktor.instructions.md`.)*
 
 ## Eigenes Problem
 
-Abgeschoben nach **Aursund** — eine abgelegene Fjordstadt am Ende einer Bergstraße/Fähre, weit weg von allem, was zählt. Er will **Rehabilitation**. Das **einzige** Positive, das er dem Abstellgleis abgewinnt, ist die **Landschaft**: Er hat hier vielleicht einmal Urlaub gemacht und bewundert den Fjord — während die Einheimischen ihn pragmatisch als Wasserstraße sehen. Diese Reibung (Viktor bewundert die Oberfläche, übersieht die Struktur) trägt durch seine Dialoge und spiegelt seinen Bogen-Fehler. *(Landschafts-Handhabung/Viktor-Ausnahme: `../Core/style-dna.instructions.md` §9.)*
+Abgeschoben nach **Aursund** — eine abgelegene Fjordstadt am Ende einer Bergstraße/Fähre, weit weg von allem, was zählt. Er will **Rehabilitation**. Das **einzige** Positive, das er dem Abstellgleis abgewinnt, ist die **Landschaft**: Er war früher in norwegischen Fjorden im Urlaub (aber **nie in diesem**) und bewundert den Aursfjord — während die Einheimischen ihn pragmatisch als Wasserstraße sehen. Diese Reibung (Viktor bewundert die Oberfläche, übersieht die Struktur) trägt durch seine Dialoge und spiegelt seinen Bogen-Fehler. *(Landschafts-Handhabung/Viktor-Ausnahme: `../Core/style-dna.instructions.md` §9.)*
 
 ## Schluss-Beat / Foreshadow-Bauteil
 

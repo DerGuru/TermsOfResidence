@@ -23,4 +23,4 @@ description: Detailed post-resolution material — weeks/months later, the new s
 
 - Neue Ordnung, die **gepflegt** werden muss (bewusst kein „für immer gelöst").
 - Ob Håkon im Finale/Epilog Teil der neuen, rotierenden Lösung wird (freiwillig, entlastet) — Tendenz ja; s. `../Characters/hakon.instructions.md` (offen).
-- Reihen-/Welt-Potenzial: Das Regelwerk ist reihenfähig (Standalone; s. `premise.instructions.md`).
+- **Standalone, bewusst abgeschlossen** — kein Serien-/Fortsetzungspotenzial angestrebt; ein künftiges Buch wäre eigenständig (evtl. gleiches/ähnliches Setting, andere Geschichte). *(s. `premise.instructions.md`.)*

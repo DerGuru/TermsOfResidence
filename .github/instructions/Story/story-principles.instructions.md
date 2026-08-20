@@ -93,3 +93,12 @@ Beim Planen hat fast jedes Element Funktion, Spiegelung, Foreshadow und Payoff �
 - **Folk-Grauen im Deadpan-Register.** Das Unheimliche (auch die Folklore) wird immer in der nüchternen Fach-/Infrastruktur-Sprache der POV-Figur geliefert, nie als Horror-Set-Piece (s. `folklore.instructions.md`). Objektiv größer, subjektiv trocken.
 
 *(Dominanz-Wechsel je Teil: `master-outline.instructions.md`. Ton-Grundton: `../Core/style-dna.instructions.md` §3.)*
+
+## 12. Lebende Welt jenseits des Rahmens (Standalone, aber offen)
+
+*Der Plot ist am Ende **erzählt und abgeschlossen** (Standalone; keine Fortsetzung — `premise.instructions.md`). Trotzdem soll der Leser das Gefühl behalten: **Wir sehen nur einen Ausschnitt — es gab ein Leben davor und es gibt eins danach, das wir nicht begleiten.** Ziel: kein Sequel-Hook, sondern **lebendige Figuren, von denen man gern mehr erführe.***
+
+- **Offene Alltagsfäden.** Figuren haben laufend kleine Pläne, Vorhaben, Reibungen, Vorlieben, die über Finale und Epilog **hinausreichen** würden (ein halb angefangener Umbau, ein Streit, der nicht ausgestanden ist, eine Idee, die keiner verfolgt, ein Vorhaben fürs nächste Jahr). Nicht alles wird aufgelöst — manches läuft einfach weiter.
+- **Kein Faden nur für den Plot.** Diese Fäden dienen dem *Leben*, nicht dem Cliffhanger; sie dürfen unspektakulär und folgenlos bleiben (verschärft P10 / Regel 46).
+- **Beispiel (bewusst nie ganz aufgelöst):** **Viktors Tourismus-/Entwicklungs-Idee** — er sieht die überwältigende Schönheit als ungenutztes Potenzial; die Lage (und die unbebaubaren Grundstücke) besiegen ihn leise; der Faden läuft aus, wird nie abgeschlossen (s. `../Characters/viktor.instructions.md`).
+- **Test:** Würden die Figuren am Tag nach dem Epilog erkennbar **weiterleben** (nicht auf den nächsten Band warten)? Wenn ja, trägt es.

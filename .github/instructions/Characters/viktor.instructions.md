@@ -1,6 +1,6 @@
 ---
 name: Viktor
-description: Complete canonical character model for Viktor, the mayor (antagonist AND POV). Use whenever Viktor is involved in writing, revision, planning, continuity analysis, dialogue, or story discussion.
+description: Complete canonical character model for Viktor, the appointed chief municipal executive / kommunedirektør (antagonist AND POV). Use whenever Viktor is involved in writing, revision, planning, continuity analysis, dialogue, or story discussion.
 ---
 
 # Viktor (Arbeitsname)
@@ -14,6 +14,7 @@ Viktor Solberg, Karrierepolitiker/Technokrat von außen, politisch auf diesen Po
 - **Eckdaten:** männlich; Ende 40 bis Mitte 50 (provisorisch); mittelgroß, gepflegt, im guten Anzug — beginnende Bürofülle bewusst kaschiert. *(feste Merkmale hier pflegen — Regel P13.)*
 - **POV-Status:** POV-Träger 2 von sechs. **Antagonist und zugleich POV** — der Leser soll seine Logik verstehen und ihm lange zustimmen (s. `../Story/story-principles.instructions.md`).
 - **Term / Pflicht:** **Keiner** — er ist von außen, an nichts gebunden. Genau das macht ihn gefährlich: Er kann anfassen, was Einheimische instinktiv meiden.
+- **Amt (Kanon):** **kommunedirektør** — der angestellte, von außen eingesetzte Verwaltungschef der Kommune, **nicht** der gewählte *ordfører*. Er **schlägt vor** und setzt um; der Rat (*kommunestyre*) **beschließt** (z.B. die Einstellung der Linie 17). Ein externer Technokrat, der den Haushalt kürzt, ist realistisch der kommunedirektør. Im Manuskript als *the town's chief executive* o.ä. geführt; „Bürgermeister/mayor" in Planungsnotizen ist lockere Kurzform.
 
 ## Die vier Kerne
 
@@ -24,7 +25,9 @@ Viktor Solberg, Karrierepolitiker/Technokrat von außen, politisch auf diesen Po
 
 ## Hintergrundgeschichte (grob)
 
-Aufstieg in der Partei, dann Fall: Er kam einem mächtigeren Funktionär in die Quere (zu ehrgeizig, zu unbequem, evtl. ein halber Skandal). „Weggelobt" in diese unbedeutende Stadt, die als Endstation gilt. Sein Privatleben hat unter der Karriere gelitten (getrennt lebend / entfremdete Familie — eine stille Parallele zu Noras Mutter, die die Stadt über die Familie stellte). Er ist *wirklich* gut: Er prüft den Haushalt, findet echte Missstände und beseitigt sie mit sichtbarem Erfolg. Buslinie 17 ist sein erster, harmlos wirkender Schnitt.
+Aufstieg in der Partei, dann Fall: Er kam einem mächtigeren Funktionär in die Quere (zu ehrgeizig, zu unbequem, evtl. ein halber Skandal). „Weggelobt" in diese unbedeutende Stadt, die als Endstation gilt. Sein Privatleben hat unter der Karriere gelitten (getrennt lebend / entfremdete Familie — eine stille Parallele zu Noras Mutter, die die Stadt über die Familie stellte). Er ist *wirklich* gut: Er prüft den Haushalt, findet echte Missstände und beseitigt sie mit sichtbarem Erfolg. Buslinie 17 ist sein erster, harmlos wirkender Schnitt. Früher war er in norwegischen Fjorden wandern (Urlaub in einem früheren Leben) — **nie in Aursund/am Aursfjord**; die Landschaft ist das Einzige, das er dem Posten abgewinnt. Er findet Aursund **überwältigend schön** — sein Geschmack weicht vom Touristenblick ab (die strenge, arbeitende, un-hübsche Version ergreift ihn). Diese Bewunderung **nutzt sich über die vier Monate nicht ab**: laufender Kontrast zu den Einheimischen, die dasselbe sehen und normal finden (s. `../Core/style-dna.instructions.md` §9).
+
+**Offener B-Faden (Tourismus/Entwicklung):** Genau diese Bewunderung verführt ihn zu einer zweiten Reform — er will Aursunds Schönheit **erschließen/vermarkten** (Ausbau, Entwicklung, u.a. Freigabe von Rikkes leerstehendem Gebäude, Teil II). Die **Lage besiegt ihn leise** (unerreichbar für Massentourismus; unbebaubare Grundstücke) — spiegelt seinen Bogen-Fehler (er entwickelt die Oberfläche, übersieht die Struktur). **Bewusst nie ganz aufgelöst**: der Faden läuft aus, nicht zu Ende (Beispiel-Faden für die lebende Welt; s. `../Story/story-principles.instructions.md` §12).
 
 ## Rolle als Antagonist (Charakter-Ebene)
 

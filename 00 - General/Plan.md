@@ -32,19 +32,6 @@ Du hast sowohl diese internen als auch die externen Rollen innerhalb des Projekt
 | **Übersetzer** | 7+ | Übersetzung in andere Sprachen |
 
 ---
-
-## Story-Struktur (für Planung & Analyse)
-
-Verwende diese dreistufige Kombination:
-
-| Ebene | Struktur | Zweck |
-|-------|----------|-------|
-| **Gesamt** | 7-Point Structure | Definiert die 7 Schlüsselmomente (Hook, Plot Turn 1, Pinch 1, Midpoint, Pinch 2, Plot Turn 2, Resolution) |
-| **Kapitel** | Scene-Sequel | Jede Szene: Goal → Conflict → Disaster; jedes Sequel: Reaction → Dilemma → Decision |
-| **Ergänzend** | Save the Cat! Beats | Füllt Lücken zwischen den 7 Points (Catalyst, Debate, Fun & Games, All Is Lost, etc.) |
-
----
-
 ## Phasen der Buchentwicklung
 
 ### Phase 1: Konzept & Fundament
@@ -59,7 +46,7 @@ Verwende diese dreistufige Kombination:
 - `Characters.md` – Protagonisten, Antagonisten, Nebenfiguren (Steckbriefe)
 
 ### Phase 2: Struktur & Planung
-- [ ] **7-Point Structure** für jeden Handlungsstrang erstellen
+- [ ] **Passende Struktur** für jeden Handlungsstrang erstellen
 - [ ] **Charakterbögen** – Wie verändert sich jede Hauptfigur?
 - [ ] **Kapitelübersicht** – Grobe Zuordnung: welches Kapitel deckt welchen Beat?
 - [ ] **Timeline-Synchronisation** (bei dualer Timeline) – Wo korrespondieren die Stränge?
@@ -67,7 +54,7 @@ Verwende diese dreistufige Kombination:
 
 **Artefakte:**
 - `Outline.md` – 7-Point Structure über das ganze Buch nud dann noch mal pro 7-Point-Structure-Element (Hook, Pinch, Turn, Resolution) + Beat-Zuordnung. Das ergibt 7 "Parts" die aber im Buch selbst nicht als solche benannt werden müssen, sondern nur der internen Referenz dienen. Es erlaubt ausserdem, die Struktur zu visualisieren und sicherzustellen, dass alle notwendigen Beats abgedeckt sind.
-- `Character Arcs.md` – Entwicklungsbögen der Hauptfiguren
+- `Characters/` – Entwicklungsbögen der Hauptfiguren
 - `Worldbuilding.md` – Setting, Regeln, historische Details
 - `Research/` – Ordner für Recherche-Notizen
 
@@ -86,9 +73,8 @@ Verwende diese dreistufige Kombination:
 - [ ] **Stil-DNA** beachten, aber nicht obsessiv – Konsistenz kommt später
 
 **Artefakte:**
-- `01 - Chapters/` – Kapitel-Dateien nach Schema `<Part-Nr:[1-7]>-<Element-Nr:[1-7]]>-<KapitelImElement:2>-Titel.md`
-  z.B. `1-1-01-Hook1.md`, `1-1-02-Hook2.md` für den ersten Hook, `1-2-01-Pinch1.md`  für den ersten Pinch, etc. bis `7-7-??-ResolutionX.md` für die finale Auflösung. Das erlaubt eine klare Zuordnung der Kapitel zu den strukturellen Elementen und erleichtert die Navigation während der Überarbeitung.
-- `Draft_Notes.md` – Notizen während des Schreibens (Ideen, Probleme, Inspirationen)
+- `01 - Chapters/` – Kapitel-Dateien
+- `03 - WorkingStuff/Draft_Notes.md` – Notizen während des Schreibens (Ideen, Probleme, Inspirationen)
 
 ### Phase 5: Revision
 - [ ] **Strukturelle Revision** – Funktioniert der Plot? Stimmen die Beats?
