@@ -86,6 +86,12 @@ Her hands were cold. She told herself it was the radiators, which were off, whic
 
 She did not go in. She told herself that was because she had an appointment. She almost believed it. She walked to the third window without looking back, and she did not count the windows a second time, in case the number had changed.
 
+## Etabliert im Manuskript (K1)
+
+- **Vater:** ging, als Nora **neun** war; die Ehe zerbrach an Marits nächtlicher Unbeweglichkeit (er wollte „nur gewöhnliche Dinge“ — einen Urlaub, der nicht bei Einbruch der Dunkelheit umkehrt, eine Frau, die einmal auswärts übernachtet). Lebend/verstorben bleibt offen.
+- **Kellertür-Schloss:** ein schweres, altes Schloss, ~50 Jahre neuer als die Tür, auffällig gepflegt — **von Noras Großmutter angebracht**. Marit: „Die Kellertür bleibt zu.“ Nora liest es als bloßen Beschlag (Foreshadow Keller/Finale; Zuständigkeits-Akt s. `../Story/system.instructions.md`).
+- **Nora bleibt ab K1 im Haus** (kleines Zimmer), aus rein praktischen Gründen — und schläft damit selbst nachts im Haus (unwissentlich Nähe zur Schlaf-Regel; zahlt in K6).
+- **Marits „Nicht du“:** Auf Noras Angebot, eine Nacht die Pflicht zu übernehmen, verweigert Marit ausgerechnet *ihr* die Übernahme („Jeder andere. Nicht du.“). Erste Dramatisierung der Finale-Verweigerung; liest sich (noch) als Märtyrertum/Kontrolle.- **Die Auflage im Nutzungsrecht (K1):** In der Aalvik-Akte steht die nächtliche Anwesenheitspflicht als Bedingung des Wohnrechts (dieselbe unbeweisbare Handschrift; Anwesenheit/nächtigen, nicht 18 h schlafen). Nora liest sie als absurde Alt-Klausel („wo eine erwachsene Frau schläft") und glaubt, sie sei „nicht alles" — den Rest schiebt sie aufs Wesen der Mutter (bestreitbar). Verbindet Verkaufssperre und Schlaf-Regel zu *einem* Dokument. Marits proximater Grund zusätzlich: Armut (nie Geld zum Ausziehen).
 ## Offen / zu bestätigen
 
-Name/Alter/Beruf provisorisch; Vater-Schicksal; genaue eigene Partnerschaft; ob sie zusätzlich zur Schlaf-Regel den „begrenzte Ausreise"-Term trägt oder eine andere Figur (der Ausreise-Term liegt aktuell bestätigt bei **Toms Lehrling** — s. `toms-apprentice.instructions.md`; diese Notiz bleibt als historische Alternative erhalten).
+Name/Alter/Beruf provisorisch; genaue eigene Partnerschaft; ob sie zusätzlich zur Schlaf-Regel den „begrenzte Ausreise"-Term trägt oder eine andere Figur (der Ausreise-Term liegt aktuell bestätigt bei **Toms Lehrling** — s. `toms-apprentice.instructions.md`; diese Notiz bleibt als historische Alternative erhalten).

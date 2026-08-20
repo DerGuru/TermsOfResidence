@@ -229,7 +229,7 @@ Emotion darf verdient und benannt werden (Reaktion : Anlass), aber kein Melodram
 | Dialog-Anteil | 30–45% | ±10% |
 | Dialog-Tag-Rate | < 35% der Zeilen | – |
 | Gedanken pro Seite | 1–4 | Szenenabhängig |
-| Kapitel-Wortanzahl | 1.500–3.500 | ±500 |
+| Kapitel-Wortanzahl | so lang wie der Stoff trägt | keine Ober-/Untergrenze |
 | POVs gesamt | ~6 | – |
 
 ---

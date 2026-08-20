@@ -52,7 +52,7 @@ Nie ausbuchstabiert. Der Leser darf die Verbindung zwischen Raum, Name und Erinn
 
 | Term | Objektive Regel | Wer trägt ihn |
 |------|-----------------|---------------|
-| **Haus** | Jede Nacht muss ein Familienmitglied dort schlafen | Eigentümerin/Mutter (`../Characters/nora.instructions.md`, `../Characters/marit.instructions.md`) |
+| **Haus** | Jede Nacht muss ein Familienmitglied im Haus **die Nacht verbringen** (anwesend sein / dort nächtigen) — **nicht** 18 h „schlafen" i.S.v. bewusstlos (bei ~18 h Winternacht sonst absurd; Nora würde es bemerken). Verschriftet als **Auflage im Nutzungsrecht** (nächtliche Anwesenheit = Bedingung; erlischt bei Bruch): das bürokratische Gesicht der Regel | Eigentümerin/Mutter (`../Characters/nora.instructions.md`, `../Characters/marit.instructions.md`) |
 | **Brachfläche** | Darf nie einen Eigentümer haben *und* nie bebaut werden | Verwaltungsfigur (`../Characters/elias.instructions.md`) — eigener Fall, nicht Noras Haus |
 | **Schwelle** | Wöchentlicher Schwellengang „ohne etwas mitzunehmen"; nie durch dieselbe Tür zurück | Einbrecherin/Gilde (`../Characters/rikke.instructions.md`) |
 | **Buslinie 17** | Die letzte Fahrt muss jeden Abend stattfinden | Busfahrer (`../Characters/hakon.instructions.md`, Non-POV) |
@@ -83,6 +83,8 @@ Buslinie 17 oder „diese Familie schläft im Haus" waren nie die eigentliche Re
 **Gestalt der neuen Lösung (bürokratisch-konkret):** Die Stadt gründet eine kommunale **Körperschaft/Stiftung mit absichtlich unvollständigem Rechtsstatus** (nicht illegal, sauber konstruiert — sie gehört zur Stadt, ist aber nicht mit ihr identisch; besitzt Rechte, aber nicht alle). Dieser Zwischenstatus *ist* der neue Puffer. Getragen wird er von einer **rotierenden, anerkannten Bürgerpflicht** (z.B. 12–24 Freiwillige pro Jahr; klar begrenzte Dienste: eine Nacht im Haus, eine Fahrt, eine festgelegte Anwesenheit, eine Unterschrift/Aufsicht). Die Dienste müssen die alten Funktionen **echt** abbilden, nicht bloß symbolisch — sonst wäre es zu bequem. Dazu ein **öffentliches Register**: pro Term drei Einträge — *was zu tun ist*, *welche tiefere Funktion es erfüllt*, *welche Beobachtungen die Notwendigkeit belegen*. Das Ende ist nicht „wir haben die richtigen Regeln", sondern: **wir haben ein System gebaut, das sich selbst erklären muss** — genau das war beim alten verloren gegangen.
 
 **Das Schloss als Zuständigkeits-Akt (Mechanik):** Ein Schloss an der Kellertür ist **kein Sicherheitsmechanismus, sondern ein Zuständigkeits-Akt**. Bisher gehört die Kellertür zum Haus → zur Familie (deshalb hängt die Pflicht an Marit/Nora). Ein neues Schloss + ein Name/Schild der Körperschaft macht die Tür zum **Zuständigkeitsobjekt der Körperschaft**; das System reagiert auf **Namen/Anerkennung**. *(Wer im Finale was tut: `part-v.instructions.md`.)*
+
+**Manuskript-Anker (K1):** An der Kellertür des Aalvik-Hauses hängt bereits ein schweres, altes, ~50 Jahre jüngeres Schloss, von Noras Großmutter angebracht und auffällig gepflegt — bislang Teil des Hauses (→ Familie), weshalb die Pflicht an Marit/Nora hängt. Der Finale-Akt tauscht/autorisiert genau dieses Schloss neu (Rikke), um die Tür der Körperschaft zuzuordnen.
 
 ## Globale Constraints (müssen durchgängig wahr bleiben)
 

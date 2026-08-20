@@ -71,7 +71,7 @@ description: Detailed progression of Part I "Alles ist nur etwas seltsam" — si
 
 ## Kapitel-Fahrplan Teil I (~12 Kapitel)
 
-*Ein Kapitel = **ein POV = ein Turn** (Rule 42); kurze Kapitel, im Zweifel eher mehr — aber **nur, wenn ein eigener Turn es trägt** (nie mechanisch rotieren, `story-principles.instructions.md` §3). Nora trägt drei Kapitel (Anker + Klopfen + Saat), Viktor eins (er hatte den Prolog). Fenster **Mo 26. Sep – So 23. Okt**; Kalender: `timeline.instructions.md`. Provisorische Reihenfolge, keine Checkliste (P11).*
+*Ein Kapitel = **ein POV = ein Turn** (Rule 42); Länge folgt dem Stoff (mal kürzer, mal länger), im Zweifel eher mehr Kapitel — aber **nur, wenn ein eigener Turn es trägt** (nie mechanisch rotieren, `story-principles.instructions.md` §3). Nora trägt drei Kapitel (Anker + Klopfen + Saat), Viktor eins (er hatte den Prolog). Fenster **Mo 26. Sep – So 23. Okt**; Kalender: `timeline.instructions.md`. Provisorische Reihenfolge, keine Checkliste (P11).*
 
 | # | POV | Turn (Kapitel-Kippen) | Wann |
 |---|-----|-----------------------|------|

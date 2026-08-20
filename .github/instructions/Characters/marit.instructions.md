@@ -22,7 +22,9 @@ Marit Aalvik, Mitte 60 bis 70. Noras Mutter. Trägerin der **Haus-Schlaf-Regel**
 
 ## Term / Pflicht
 
-**Haus-Schlaf-Regel** (jede Nacht ein Familienmitglied im Haus). Begründung, die sie selbst kennt: „Das war schon bei meiner Mutter so." Mehr nicht.
+**Haus-Schlaf-Regel** (jede Nacht ein Familienmitglied im Haus — **anwesend/die Nacht verbringen**, nicht 18 h schlafen). Begründung, die sie selbst kennt: „Das war schon bei meiner Mutter so." Mehr nicht.
+
+**Ihr gesprochener Grund (K1):** die **Auflage im Nutzungsrecht** (nächtliche Anwesenheit = Bedingung; sonst erlischt das Wohnrecht) + **Armut** (nie Geld für ein anderes Zuhause) + ein weicher, sofort unterdrückter Grusel („man mag den Gedanken nicht, dass die Dunkelheit das Haus leer vorfindet"). Der rationale Grund trägt und bleibt bestreitbar (P14); der Grusel ist nur der Unterton.
 
 > **Wissen vs. Wahrheit:** Marit weiß erschreckend wenig — nur die Regel, nicht den Grund. Repräsentativer Austausch: „Wenn niemand hier ist, passiert etwas." — „Was?" — „Ich weiß es nicht." — „Ist jemals niemand hier gewesen?" — Pause. — „Einmal." Was objektiv geschieht (Statusfehler), steht in `../Story/system.instructions.md`, nicht in ihrem Kopf.
 
@@ -33,6 +35,8 @@ Sie erinnert sich, dass **einmal** niemand im Haus schlief (ein Notfall/eine Bee
 ## Die Verweigerung (Finale-Funktion)
 
 Als die einfachste Lösung wäre, dass **Nora** die Pflicht übernimmt, verweigert ausgerechnet Marit die Weitergabe: *„Nein. Nicht noch einmal."* Aus der Frau, die das System ein Leben lang getragen hat, wird die, die sich weigert, es an die nächste Generation weiterzureichen. Am Ende schläft sie zum ersten Mal auswärts — eine Nacht bei ihrer Tochter (Chronologie: `../Story/epilogue.instructions.md`). Nicht „Mama hatte recht", sondern *„Jetzt verstehe ich, warum du so gelebt hast."*
+
+**Erste Saat (K1):** Auf Noras Angebot, eine Nacht einzuspringen, sagt Marit ausgerechnet zu *Nora* Nein („Jeder andere. Nicht du.“), verkleidet als Schutz. Nora liest Märtyrertum/Kontrolle — der wahre Grund (Schutz der Tochter vor der Bindung) bleibt verborgen (Invisible Writing).
 
 ## Beziehungen & Loyalitäten (Ensemble-Szenen-Check)
 
@@ -47,4 +51,4 @@ Nur über Handlung, Dialog und das Ungesagte, wahrgenommen durch andere POVs (v.
 
 ## Offen / zu bestätigen
 
-Alter; Schicksal des Vaters; ob sie eine der Non-POV-Stimmen ist, die der Leser über Erinnerungen anderer besonders nah erlebt.
+Alter; Schicksal des Vaters (ging, als Nora neun war; lebend/verstorben offen); ob sie eine der Non-POV-Stimmen ist, die der Leser über Erinnerungen anderer besonders nah erlebt.

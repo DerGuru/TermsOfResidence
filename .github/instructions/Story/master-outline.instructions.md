@@ -84,14 +84,14 @@ Praktisch jedes Bauteil ist von Anfang an da und läuft im Finale in **einer Kel
 
 Teil I **eigene Welten, Person-zuerst** (Nora als Anker etwas stärker) · II erste Überschneidungen; lose Zweier (Kaja↔Elias, Tom↔Nora) · III feste Ermittlungs-Duos · IV Paarungen brechen auf, kombinieren neu; Kapitel kürzer · V kurze, stark wechselnde POVs. **Nicht mechanisch A–F rotieren** (s. `story-principles.instructions.md` §3).
 
-## Kapitel-Budget & Länge
+## Kapitel-Länge & -Zahl
 
-*Richtwerte, kein Korsett. Basis: Style DNA §14 (Kapitel **1.500–3.500** Wörter) und Writing Rule 42 (**am Turn schneiden**). Zielumfang ~130k Wörter.*
+*Länge folgt dem Stoff, nicht einem Budget: Ein Kapitel wird so lang, wie es braucht, um seinen Turn zu tragen (Writing Rule 42: **am Turn schneiden**) — mal kürzer, mal länger, beides ist gut. **Keine Ober- oder Untergrenze, kein Ø-Zielwert.** Die Kapitelzahlen unten sind **lose Planungsschätzungen** für Makro-Struktur und Pacing, kein Soll. Grober Gesamtumfang ~130k — ebenfalls nur Orientierung.*
 
-- **Ziel: ~66 Kapitel** (+ Prolog + Epilog), Ø **~1.950 Wörter** — untere Bandmitte, „kurz & stark wechselnd". Im Zweifel **eher mehr, kürzere Kapitel** (mehr POV-Raum) — aber **nur, wenn ein eigener Turn es trägt**; nie strecken, nie mechanisch rotieren.
-- **Ein Kapitel = ein POV = ein Turn.** Lässt sich eine Szene nicht auf einen Turn zuspitzen, gehört sie geteilt oder gekürzt.
+- **Der einzige Schnitt-Grund ist der Turn**, nie die Wortzahl. Nicht strecken, nicht künstlich kürzen, nicht mechanisch rotieren.
+- **Ein Kapitel = ein POV = ein Turn.** Trägt eine Szene zwei Turns, kann man teilen; verlangt der Stoff einen langen Bogen, darf das Kapitel lang sein.
 
-| Abschnitt | Kapitel (Ziel) | Hinweis |
+| Abschnitt | Kapitel (grobe Schätzung) | Hinweis |
 |-----------|----------------|---------|
 | Prolog | 1 | Viktor; Set-piece, darf länger |
 | Teil I | ~12 | jede der 6 POVs Person-zuerst; Nora 3, Viktor 1 (Fahrplan: `part-i.instructions.md`) |
@@ -101,7 +101,7 @@ Teil I **eigene Welten, Person-zuerst** (Nora als Anker etwas stärker) · II er
 | Teil V (Finale) | ~12 | kurz, hoher POV-Wechsel |
 | Epilog | 1–2 | Nachklang |
 
-*Skaliert mit dem Umfang: wächst das Manuskript auf ~145k, steigt die Kapitelzahl proportional (Ø-Länge halten, nicht Kapitel verlängern). Detaillierte Schnitte in den Part-Dateien; Teil I ist bereits als Fahrplan ausgearbeitet.*
+*Die Zahlen skalieren locker mit dem Umfang; wächst das Manuskript, dürfen es mehr Kapitel **oder** längere sein, je nachdem, was der Stoff trägt. Detaillierte Schnitte in den Part-Dateien; Teil I ist bereits als Fahrplan ausgearbeitet.*
 
 ## Finale — strukturelles Endziel
 
